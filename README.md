@@ -1,8 +1,5 @@
 # Darbak | دربك
 
-<p align="center">
-  <img src="docs/images/darbak-logo.png" alt="Darbak logo — دربك" width="280">
-</p>
 
 A ride-sharing and match-planning platform for football fans attending the Asian Cup in Saudi Arabia. Fans can offer seats, request rides, save matches, and use AI to help plan their matchday[cite: 1].
 
